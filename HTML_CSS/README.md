@@ -1,10 +1,8 @@
 # HTML & CSS
 
-***
-
 Recommended path:
 
-- [Intro](../blob/master/HTML_CSS/Intro)
+- [Intro](./Intro)
 
    html tag, attribute, css selector, property, value   
    (Tag, Selector, Rule - intro & az első landing page build)
