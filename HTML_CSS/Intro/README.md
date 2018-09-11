@@ -1,7 +1,5 @@
 # HTML & CSS: Intro
 
-***
-
 ## Tools for the course
 
 - teaching materials - this!
@@ -22,7 +20,7 @@
 
 ### An HTML tag
 
-![anatomy image](../blob/master/HTML_CSS/Intro/assets/HTML_anatomy.png)
+![anatomy image](./assets/HTML_anatomy.png)
 
 this is good:
 ```HTML
@@ -35,7 +33,7 @@ this is not:
 
 ### CSS rules
 
-![anatomy image](../blob/master/HTML_CSS/Intro/assets/CSS_anatomy.png)
+![anatomy image](./assets/CSS_anatomy.png)
 
 ### Today's exercise
 
@@ -43,9 +41,9 @@ Join me in building an article!
 [Connect to my CodePen](https://codepen.io/hubudibu/professor/bxvYNo/)
 
 #### Task:
-[The text you can find here](../blob/master/HTML_CSS/Intro/assets/feynman.txt)
+[The text you can find here](./assets/feynman.txt)
 should look like
-[The image you can find here](../blob/master/HTML_CSS/Intro/assets/feynman.png).
+[The image you can find here](./assets/feynman.png).
 
 extra tasks:
 - center the article on the page!
