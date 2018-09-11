@@ -1,5 +1,8 @@
 ### teacher notes
 
+#### preparation
+- start with a clean [codepen](https://codepen.io/hubudibu/pen/bxvYNo)!
+
 #### outline
 - check-in round
 
@@ -30,6 +33,7 @@
 - what is HTML, what is CSS
 - anatomy of a tag / rule
 - nesting tags
+- whitespace, indentation
 - how does CodePen work
 - using documentation - MDN
 - identifying elements
