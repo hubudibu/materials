@@ -4,10 +4,13 @@ Recommended path:
 
 - [Intro](./Intro)
 
-   html tag, attribute, css selector, property, value   
-   (Tag, Selector, Rule - intro & az első landing page build)
+   Tag, Selector, Rule - intro & building our first article
 
-- Eszközök - editor, devtools, github; így működik az internet
+- [Tools](./Tools)
+
+   editor, devtools, github;   
+   how the internet works
+
 - HTML alapok: szemantikus elemek, meta elemek
 - CSS alapok: szelektorok, metodológiák; tipográfia
 - CSS Layout: box model, pozícionálás, flexbox, grid
