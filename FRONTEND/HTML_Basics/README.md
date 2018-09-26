@@ -30,7 +30,7 @@ If you use the [given CSS file](assets/style.css), the result should look like t
 
 Elements to use: `html, head, body, title, link`
 
-#### exercise I: familiar elements: text, title, lists, quotes
+### exercise I: familiar elements: text, title, lists, quotes
 
 Elements to use: `p, h1, h2, ul, ol, li, blockquote`
 
@@ -41,7 +41,7 @@ Elements to use: `p, h1, h2, ul, ol, li, blockquote`
 | ```Conceptualist narrative in the works of Gibson Department of English, Stanford University Conceptualist narrative and the neomodern paradigm of reality Gibson and capitalist deconstruction “Society is a legal fiction,” says Baudrillard. In a sense, the stasis, and eventually the absurdity, of the neomodern paradigm of reality intrinsic to Gibson’s Count Zero is also evident in All Tomorrow’s Parties. Sontag suggests the use of realism to analyse class.```      | ![exercise 1](assets/screenshots/ol.png) |
 | ```Conceptualist narrative in the works of Gibson Department of English, Stanford University Conceptualist narrative and the neomodern paradigm of reality Gibson and capitalist deconstruction “Society is a legal fiction,” says Baudrillard. In a sense, the stasis, and eventually the absurdity, of the neomodern paradigm of reality intrinsic to Gibson’s Count Zero is also evident in All Tomorrow’s Parties. Sontag suggests the use of realism to analyse class.```      | ![exercise 1](assets/screenshots/bq.png) |
 
-#### exercise II: links, emphasis, code, superscript
+### exercise II: links, emphasis, code, superscript
 
 Elements to use: `a, strong, code, pre, sup`
 
@@ -52,7 +52,7 @@ Elements to use: `a, strong, code, pre, sup`
 | ```The HTML <code> element displays its contents styled in a fashion intended to indicate that the text is a short fragment of computer code. By default, the content text is displayed using the user agent's 1 default monospace font.```      | ![exercise 1](assets/screenshots/code.png) |
 
 
-#### exercise III: nesting
+### exercise III: nesting
 
 Pay attention to nesting your elements: `<strong><a>this</a></strong>` is good, `<strong><a>this</strong></a>` is not!
 
@@ -61,7 +61,7 @@ Pay attention to nesting your elements: `<strong><a>this</a></strong>` is good, 
 | ```The HTML <code> element displays its contents styled in a fashion intended to indicate that the text is a short fragment of computer code. By default, the content text is displayed using the user agent's 1 default monospace font.```      |  ```***********************************``` ![exercise 1](assets/screenshots/suplink.png) |
 | ``` Conceptualist narrative in the works of Gibson Department of English, Stanford University Conceptualist narrative and the neomodern paradigm of reality “Society is a legal fiction,” says Baudrillard. In a sense, the stasis, and eventually the absurdity. Gibson and capitalist deconstruction Drucker[2] holds that the works of Gibson are an example of mythopoetical libertarianism.```      | ![exercise 1](assets/screenshots/lih.png) |
 
-#### exercise IV: sectioning content
+### exercise IV: sectioning content
 
 Elements to use: `header, footer, nav, aside, main, article, section`
 
