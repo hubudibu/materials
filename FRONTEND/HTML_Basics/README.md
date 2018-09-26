@@ -1,7 +1,5 @@
 # HTML Basics
 
-## Preparing for this class
-
 ## Tools for today
 
 - Atom
