@@ -11,7 +11,13 @@ Recommended path:
    editor, devtools, github;   
    how the internet works
 
-- HTML alapok: szemantikus elemek, meta elemek
+- [HTML basics](./HTML_Basics)
+
+   HTML history;   
+   most common HTML elements;   
+   sectioning;   
+   project work kickoff
+  
 - CSS alapok: szelektorok, metodológiák; tipográfia
 - CSS Layout: box model, pozícionálás, flexbox, grid
 - HTML speciális elemek: formok, media elemek
