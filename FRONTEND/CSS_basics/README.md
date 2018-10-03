@@ -1,9 +1,5 @@
 # CSS Basics
 
-## Preparing for this class
-
-## Tools for today
-
 ## New concepts for today
 
 - some css properties to start with: font & color
