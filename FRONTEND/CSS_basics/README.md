@@ -93,8 +93,7 @@ Let's continue with the class project!
 - Refine your document structure, continue adding contents and elements until ready.
 - Push your work to your corresponding remote repository on GitHub.
 
-plan class names, add text styles, **avoid duplication**
-
 ## Optional homework
 
 - read more on CSS Specificity on CSS-Tricks https://css-tricks.com/specifics-on-css-specificity/ and on Smashing Magazine https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/ or use the dark side of the force https://stuffandnonsense.co.uk/archives/css_specificity_wars.html
+- read more on methodologies like BEM http://getbem.com/ or watch videos on ITCSS https://www.skillshare.com/classes/Modern-CSS-Writing-Better-Cleaner-More-Scalable-Code/771669373
