@@ -10,6 +10,8 @@
 
 ## Today's exercise
 
+Zeplin project link for exercises: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f
+
 ### Box Model
 
 your CSS properties and values for this exercise:
