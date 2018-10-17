@@ -15,13 +15,13 @@
 
 ### Forms: text input elements
 
-| . How &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. | . What &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. |
+| How | What |
 | - | - |
 | elements to use: `<input>` with the right `type` attribute, `<textarea>` | ![9.2](./assets/input.gif) |
 
 ### Forms: attributes
 
-| ..How................................. | ..What................................. |
+| How | What |
 | - | - |
 | attributes to use: `disabled`, `placeholder`, `value` | ![9.2](./assets/attribute.gif) |
 
@@ -45,7 +45,7 @@
 
 ### Styling input elements: flexbox
 
-|   |   |
+| How | What |
 | - | - |
 | position your form elements with flexbox! [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d) |  ![9.2](./assets/10.2.jpg) |
 
