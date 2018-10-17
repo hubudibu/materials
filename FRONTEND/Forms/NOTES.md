@@ -17,12 +17,11 @@
 
   padding, border, margin on input elements
 
-  flexbox with input elements https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox#Form_controls
+  flexbox with input elements
 
-  tables
+  (tables)
 
   (audio, video)
-
 
 - exercise:
 - optional homework
