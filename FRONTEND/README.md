@@ -30,10 +30,14 @@ Recommended path:
   box model, sizing & positioning
   flexbox, grid
 
-- HTML speciális elemek: formok, media elemek
-- Reszponzív és adaptív web
-- CSS advanced: színek, árnyékok, animációk
-- Wordpress személyreszabás
-- JavaScript betekintő: Document Object Model; eseménykezelés
-- Gyakorlás I
-- Gyakorlás II
+- [Forms](./Forms)
+
+  user input elements, text inputs, dropdowns, checkboxes and buttons   
+  styling input elements
+
+- Responsive and Adaptive Web
+- CSS advanced: Colors, Shadows, Transitions
+- Wordpress, Templates, Dynamic content
+- JavaScript sneak peek: Document Object Model; event handling
+- Workshop I
+- Workshop II
