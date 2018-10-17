@@ -15,15 +15,14 @@
 
 ### Forms: text input elements
 
-|   |   |
 | - | - |
-| elements to use: `<input>` with the right `type` attribute, `<textarea>` | ![9.2](./assets/input.gif){width=254px} |
+| elements to use: `<input>` with the right `type` attribute, `<textarea>` | ![9.2](./assets/input.gif) |
 
 ### Forms: attributes
 
 |   |   |
 | - | - |
-| attributes to use: `disabled`, `placeholder`, `value` | ![9.2](./assets/attribute.gif){width=250px} |
+| attributes to use: `disabled`, `placeholder`, `value` | ![9.2](./assets/attribute.gif) |
 
 ### Forms: checkbox, radio
 
