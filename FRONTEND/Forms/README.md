@@ -15,38 +15,39 @@
 
 ### Forms: text input elements
 
+| . How &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. | . What &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. |
 | - | - |
 | elements to use: `<input>` with the right `type` attribute, `<textarea>` | ![9.2](./assets/input.gif) |
 
 ### Forms: attributes
 
-|   |   |
+| ..How................................. | ..What................................. |
 | - | - |
 | attributes to use: `disabled`, `placeholder`, `value` | ![9.2](./assets/attribute.gif) |
 
 ### Forms: checkbox, radio
 
-|   |   |
+| How | What |
 | - | - |
-| elements to use: `<input>`, with types `checkbox` and `radio`, and with correct `name` attributes | `***********************************` ![9.2](./assets/check.gif) |
+| elements to use: `<input>`, with types `checkbox` and `radio`, and with correct `name` attributes |  ![9.2](./assets/check.gif) |
 
 ### Forms: buttons, labels
 
-|   |   |
+| How | What |
 | - | - |
-| new elements to use: `<button>`, `<label>` with `for` attribute | `***********************************` ![9.2](./assets/label.gif) |
+| new elements to use: `<button>`, `<label>` with `for` attribute |  ![9.2](./assets/label.gif) |
 
 ### Styling input elements: box model
 
-|   |   |
+| How | What |
 | - | - |
-| style your inputs! use `padding`, `margin`, `border` and `background`. [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc5fbecd010065fdf8001a2) | `***********************************` ![9.2](./assets/10.jpg) |
+| style your inputs! use `padding`, `margin`, `border` and `background`. [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc5fbecd010065fdf8001a2) |  ![9.2](./assets/10.jpg) |
 
 ### Styling input elements: flexbox
 
 |   |   |
 | - | - |
-| position your form elements with flexbox! [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d) | `***********************************` ![9.2](./assets/10.2.jpg) |
+| position your form elements with flexbox! [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d) |  ![9.2](./assets/10.2.jpg) |
 
 ## Project work
 
