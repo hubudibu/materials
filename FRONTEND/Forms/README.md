@@ -17,13 +17,13 @@
 
 |   |   |
 | - | - |
-| elements to use: `<input>` with the right `type` attribute, `<textarea>` | `***********************************` ![9.2](./assets/input.gif) |
+| elements to use: `<input>` with the right `type` attribute, `<textarea>` | ![9.2](./assets/input.gif){width=254px} |
 
 ### Forms: attributes
 
 |   |   |
 | - | - |
-| attributes to use: `disabled`, `placeholder`, `value` | `***********************************` ![9.2](./assets/attribute.gif) |
+| attributes to use: `disabled`, `placeholder`, `value` | ![9.2](./assets/attribute.gif){width=250px} |
 
 ### Forms: checkbox, radio
 
@@ -41,13 +41,13 @@
 
 |   |   |
 | - | - |
-| style your inputs! use `padding`, `margin`, `border` and `background`. zeplin link: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc5fbecd010065fdf8001a2 | `***********************************` ![9.2](./assets/10.jpg) |
+| style your inputs! use `padding`, `margin`, `border` and `background`. [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc5fbecd010065fdf8001a2) | `***********************************` ![9.2](./assets/10.jpg) |
 
 ### Styling input elements: flexbox
 
 |   |   |
 | - | - |
-| position your form elements with flexbox! zeplin link: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d | `***********************************` ![9.2](./assets/10.2.jpg) |
+| position your form elements with flexbox! [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d) | `***********************************` ![9.2](./assets/10.2.jpg) |
 
 ## Project work
 
