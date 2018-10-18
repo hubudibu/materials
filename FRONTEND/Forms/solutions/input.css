@@ -1,0 +1,86 @@
+/* :checked {
+  width: 100px;
+}
+
+p ~ p {
+  background: red;
+}
+
+div {
+  display: none;
+}
+
+:checked ~ div {
+  display: block;
+} */
+
+body {
+  background-color: #f2f2f2;
+  margin: 40px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+input, button {
+  font-size: 20px;
+}
+
+p {
+  margin: 40px 0;
+}
+
+.one {
+  padding: 0;
+  border: none;
+}
+
+.two {
+  padding: 4px;
+  border: 2px solid;
+}
+
+.bottom-only {
+  border-width: 0 0 2px;
+}
+
+.four {
+  padding: 10px 20px;
+  border: 2px solid;
+  border-left: 20px solid;
+}
+
+.five {
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+.form {
+  display: flex;
+  align-items: baseline;
+  border: 2px solid;
+}
+
+.form input,
+.form button,
+.form label {
+  padding: 10px;
+  line-height: 1;
+}
+
+.form input {
+  border: none;
+  flex-grow: 1;
+}
+
+.form label + input {
+   border-left: 2px solid;
+}
+
+.form button {
+  background: black;
+  color: white;
+  align-self: stretch;
+  border: none;
+}
