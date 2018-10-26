@@ -21,10 +21,10 @@
 
 ## Today's exercises
 
-
 ### Fancy backgrounds
 
 What will we use?
+
 - `background-image`
 - `background-repeat`
 - `background-size: cover`, `contain`
@@ -33,52 +33,44 @@ What will we use?
 All the boxes are 300x300 px in size, and are using the same background image:
 [background image]
 Find the designs in [the Zeplin project].
-<!-- TODO: -->
-    - images, repeat
-    - size: cover, contain
-    - gradient: linear, radial
-    - multiple backgrounds: gradient over image
 
 ### Fancy boxes
 
 What will we use?
+
 - `border-radius`
 - `box-shadow`
 
 All the boxes are 300x300 px in size, and are using the same background color: `thistle`
 Find the designs in [the Zeplin project].
-<!-- TODO: -->
-    - border-radius
-    - circles with radius
-    - box-shadow
-    - don't build on the previous yet, no gradient + shadow
 
 ### Icons
 
 What will we use?
+
 - `::before`
 - `content`
 - `background-size`
+- [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
 
-All the boxes are 300x300 px in size, and are using the same background color: `thistle`
 Find the designs in [the Zeplin project].
-<!-- TODO: -->
-    - use given svg - download from zeplin
-    - use given icon font - change colors
+
+- use SVG images downloaded from Zeplin.
+- use icon fonts from Font Awesome. Recolor the icons.
 
 ### Interactions
 
 What will we use?
+
 - `:hover`
 - `transition`
-<!-- TODO: -->
-    - hover color change for link
-    - underline on hover
-    - hover background change on button
+
+Find the designs in [the Zeplin project].
 
 ### Combine
 
 What will we use?
+
 - `linear-gradient`
 - `border-radius`
 - `box-shadow`
@@ -87,8 +79,7 @@ What will we use?
 - `:hover`
 - `transition`
 
-<!-- TODO: -->
-  - exercise: a fancy button
+Find the designs in [the Zeplin project].
 
 ## Project work
 
@@ -98,5 +89,10 @@ What will we use?
 - add arrow icons
 
 ## Optional homework
+
 - create your own fancy buttons!
 - continue with project work - now you can do all the rounded corners and icons as well
+
+* icons from [Font Awesome](https://fontawesome.com/license)
+
+[the zeplin project]: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f
