@@ -32,12 +32,22 @@ Recommended path:
 
 - [Forms](./Forms)
 
-  user input elements, text inputs, dropdowns, checkboxes and buttons   
+  user input elements, text inputs, dropdowns, checkboxes and buttons  
   styling input elements
 
+- [Workshop Day 1](./Project)
+
+  review what we've learned;  
+  progress with the project work
+
+- [CSS advanced]('./CSS_advanced')
+
+  Fancy backgrounds  
+  Fancy boxes  
+  Icons  
+  Interactions
+
 - Responsive and Adaptive Web
-- CSS advanced: Colors, Shadows, Transitions
 - Wordpress, Templates, Dynamic content
 - JavaScript sneak peek: Document Object Model; event handling
-- Workshop I
 - Workshop II
