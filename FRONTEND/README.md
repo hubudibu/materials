@@ -47,7 +47,13 @@ Recommended path:
   Icons  
   Interactions
 
-- Responsive and Adaptive Web
+- [Responsive and Adaptive Web]('./Responsive')
+
+  Testing on mobile   
+  Relative sizes   
+  Responsive grid   
+  Media queries   
+
 - Wordpress, Templates, Dynamic content
 - JavaScript sneak peek: Document Object Model; event handling
 - Workshop II
