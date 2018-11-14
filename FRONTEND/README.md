@@ -54,6 +54,15 @@ Recommended path:
   Responsive grid   
   Media queries   
 
-- Wordpress, Templates, Dynamic content
-- JavaScript sneak peek: Document Object Model; event handling
-- Workshop II
+- [Dynamic content]('./Dynamic')
+
+  Jekyll
+  Wordpress
+  Templates
+
+- [JavaScript]('#')
+
+  Document Object Model
+  event handling
+
+- [Workshop II]('#')
