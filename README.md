@@ -42,29 +42,29 @@ Recommended path:
   review what we've learned;  
   progress with the project work
 
-- [CSS advanced]('./CSS_advanced')
+- [CSS advanced](./FRONTEND/CSS_advanced)
 
   Fancy backgrounds  
   Fancy boxes  
   Icons  
   Interactions
 
-- [Responsive and Adaptive Web]('./Responsive')
+- [Responsive and Adaptive Web](./FRONTEND/Responsive)
 
   Testing on mobile   
   Relative sizes   
   Responsive grid   
   Media queries   
 
-- [Dynamic content]('./Dynamic')
+- [Dynamic content](./FRONTEND/Dynamic)
 
   Jekyll
   Wordpress
   Templates
 
-- [JavaScript]('#')
+- [JavaScript](./FRONTEND/JavaScript)
 
   Document Object Model
   event handling
 
-- [Workshop II]('#')
+- [Workshop II](#)
