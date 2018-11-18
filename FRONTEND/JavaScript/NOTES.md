@@ -3,7 +3,7 @@
 #### preparation
 
 - print this outline
-- https://scrimba.com/c/czq7kHe - create new / clean up!
+- [scrimba playground link](https://scrimba.com/c/czq7kHe) - create new / clean up!
 - test scrimba features - follow from different browser, stop & play, catch up
 
 #### outline

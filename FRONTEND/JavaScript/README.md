@@ -2,7 +2,7 @@
 
 ## Tools for today
 
-- https://scrimba.com/c/czq7kHe
+- [Follow along today on Scrimba](https://scrimba.com/c/czq7kHe)
 
 ## New concepts for today
 
