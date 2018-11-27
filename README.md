@@ -51,10 +51,10 @@ Recommended path:
 
 - [Responsive and Adaptive Web](./FRONTEND/Responsive)
 
-  Testing on mobile   
-  Relative sizes   
-  Responsive grid   
-  Media queries   
+  Testing on mobile  
+  Relative sizes  
+  Responsive grid  
+  Media queries
 
 - [Dynamic content](./FRONTEND/Dynamic)
 
@@ -67,4 +67,7 @@ Recommended path:
   Document Object Model
   event handling
 
-- [Workshop II](#)
+- [Workshop II](./FRONTEND/ProjectII)
+
+  review what we've learned;  
+  progress with the project work
