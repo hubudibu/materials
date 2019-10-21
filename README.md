@@ -1,6 +1,6 @@
 # MATERIALS
 
-# HTML & CSS
+## HTML & CSS
 
 Recommended path:
 
@@ -17,8 +17,7 @@ Recommended path:
 
   HTML history;  
    most common HTML elements;  
-   sectioning;  
-   project work kickoff
+   sectioning
 
 - [CSS basics](./FRONTEND/CSS_basics)
 
@@ -27,20 +26,24 @@ Recommended path:
   specificity & cascade  
   CSS methodologies, BEM
 
-- [Layout](./FRONTEND/Layout)
+- [Workshop Day 1](./FRONTEND/Project)
+
+  review what we've learned;  
+  first project work focusing on process
+
+- [Layout: Box Model](./FRONTEND/Layout)
 
   box model, sizing & positioning
   flexbox, grid
 
-- [Forms](./FRONTEND/Forms)
+- [Layout: Flex & Grid](./FRONTEND/Layout)
 
-  user input elements, text inputs, dropdowns, checkboxes and buttons  
-  styling input elements
+  flexbox, grid
 
-- [Workshop Day 1](./FRONTEND/Project)
+- [Workshop Day 2](./FRONTEND/Project)
 
   review what we've learned;  
-  progress with the project work
+  second project work focusing on layout
 
 - [CSS advanced](./FRONTEND/CSS_advanced)
 
@@ -56,18 +59,32 @@ Recommended path:
   Responsive grid  
   Media queries
 
-- [Dynamic content](./FRONTEND/Dynamic)
+- [Workshop Day 3](./FRONTEND/Project)
+
+  review what we've learned;  
+  third project work focusing on responsive web
+
+- [Media & Forms](./FRONTEND/Forms)
+
+  special HTML elements: video, audio, tables,   
+  user input elements, text inputs, dropdowns, checkboxes and buttons  
+  styling input elements
+
+- [Workshop Day 4](./FRONTEND/Project)
+
+  review what we've learned;  
+  project work
+
+
+## One step beyond HTML & CSS
+
+- [Dynamic Content Intro](./FRONTEND/Dynamic)
 
   Jekyll
   Wordpress
   Templates
 
-- [JavaScript](./FRONTEND/JavaScript)
+- [JavaScript Intro](./FRONTEND/JavaScript)
 
   Document Object Model
   event handling
-
-- [Workshop II](./FRONTEND/ProjectII)
-
-  review what we've learned;  
-  progress with the project work
