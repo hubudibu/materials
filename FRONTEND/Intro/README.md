@@ -3,20 +3,20 @@
 ## Tools for the course
 
 - teaching materials - this!
-- communication
+- communication - on Slack
 
 ## Tools for today
 
-- CodePen
+- Scrimba
 - MDN
 
 ## New concepts for today
 
 - HTML
 - CSS
-- tag, tag name, attribute
-- rule, selector, block, property, value
-- documentation
+- tag, tag name, attribute in HTML
+- rule, selector, block, property, value in CSS
+- using online documentation
 
 ### An HTML tag
 
@@ -38,7 +38,7 @@ this is not:
 ### Today's exercise
 
 Join me in building an article!   
-[Connect to my CodePen](https://codepen.io/hubudibu/professor/bxvYNo/)
+[Connect to my Scrimba]()
 
 #### Task:
 [The text you can find here](./assets/feynman.txt)
@@ -49,14 +49,15 @@ extra tasks:
 - center the article on the page!
 - find an image of Feynman and include it in the article!
 - make it responsive!
+- make an app of it!
 - find the original article and compare your solutions!
 
 ***
 
 ### Preparing for the next class
 
-- install [atom](https://atom.io/)
+- install [VSCode](https://code.visualstudio.com/)
+- register to [GitHub](https://github.com/)
 - install [GitHub desktop](https://desktop.github.com/)
 - install [hyper](https://hyper.is/)
-- install [chrome](https://www.google.com/chrome/)
-- register to [GitHub](https://github.com/)
+- install [Chrome Browser](https://www.google.com/chrome/)
