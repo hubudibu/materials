@@ -7,13 +7,23 @@
 
 ## Tools for today
 
-- Scrimba
-- MDN
+- [Scrimba](https://scrimba.com/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web)
+
+### Today's exercise
+
+Join me in building an article!   
+[Connect to my Scrimba]()
+
+#### Task:
+[The text you can find here](./assets/feynman.txt)
+should look like
+[The image you can find here](./assets/feynman.png).
 
 ## New concepts for today
 
-- HTML
-- CSS
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - tag, tag name, attribute in HTML
 - rule, selector, block, property, value in CSS
 - using online documentation
@@ -35,21 +45,11 @@ this is not:
 
 ![anatomy image](./assets/CSS_anatomy.png)
 
-### Today's exercise
+### extra tasks
 
-Join me in building an article!   
-[Connect to my Scrimba]()
-
-#### Task:
-[The text you can find here](./assets/feynman.txt)
-should look like
-[The image you can find here](./assets/feynman.png).
-
-extra tasks:
 - center the article on the page!
 - find an image of Feynman and include it in the article!
 - make it responsive!
-- make an app of it!
 - find the original article and compare your solutions!
 
 ***
