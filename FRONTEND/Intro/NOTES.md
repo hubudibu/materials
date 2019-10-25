@@ -8,6 +8,7 @@
 - check group language
 - check-in round
 
+   what's your name?   
    how are you?   
    what do you do?   
    what's your xp with coding?   
