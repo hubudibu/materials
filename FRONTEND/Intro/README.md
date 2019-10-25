@@ -13,7 +13,7 @@
 ### Today's exercise
 
 Join me in building an article!   
-[Connect to my Scrimba]()
+[Connect to my Scrimba](https://scrimba.com/c/c9BrVdh4)
 
 #### Task:
 [The text you can find here](./assets/feynman.txt)

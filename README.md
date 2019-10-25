@@ -75,7 +75,7 @@ Recommended path:
   review what we've learned;  
   project work
 
-
+<!--
 ## One step beyond HTML & CSS
 
 - [Building on CSS](#)
@@ -93,3 +93,4 @@ Recommended path:
 
   Document Object Model   
   event handling
+-->
