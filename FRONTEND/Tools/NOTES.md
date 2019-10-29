@@ -6,52 +6,55 @@
 
 #### outline
 
-- check-in round: how are you? did you have time to revisit last class?
+- check-in round: how are you?   
+did you do / see / read anything coding related since the last class?
+
 - what will we do today?
 
-  - questions from last class
+  - review last class
   - talk about how the internet works
   - talk about our tools
   - create our first repository
-  - do some command line exercises
+  - see how it all looks like in the command line
 
-- how the internet works
+##### how the internet works
 
+  - talk about: code, 1s and 0s, layers of languages
   - talk about: internet, client & server, protocols
 
-  - exercise:
+##### exercise 1:
 
-    - any html file locally - in atom
-    - last time's article locally
+  - any html file locally - in vscode
+  - last time's article locally - download later
 
-  - talk about:
+- talk about:
 
-    - mandatory html elements - what happens if we don't have them
-    - links, link tag, absolute & relative paths
-    - chrome dev tools
+  - mandatory html elements - what happens if we don't have them
+  - character encoding
+  - links, link tag, absolute & relative paths
+  - chrome dev tools
+  - normalize
 
 - servers, hosting
 
   - talk about:
 
-    - self-hosting, demo it on LAN - `python -m SimpleHTTPServer 8000`
+    - self-hosting, demo it on LAN and phone - `python -m SimpleHTTPServer 8000`
     - hosting providers - hostgator, godaddy, uw
     - services - codepen, glitch, GitHub
 
-  - exercise: let's put our article on a server with GitHub desktop
+##### exercise 2: let's put our article on a server with GitHub desktop
 
 - version control
 
   - talk about: what else Git is good for
-  - show: collaborating from 2 different folders
   - exercise: change stuff in article
   - show: it's the same in the command line
-  - show: pull request workflow
 
-- command line
+##### command line
 
   - talk about: what's the command line - text interface like Siri
-  - show: terminal & hyper; launch programs from cli - atom; open in browser
+  - show: terminal & hyper; launch programs from cli - code; open in browser
   - exercise: list files, create files & folders - use CodeCademy
 
 - optional homework: watch Khan Academy videos about how the internet works & explain it to a 5 year old
