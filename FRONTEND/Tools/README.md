@@ -60,6 +60,7 @@ Create a folder on your computer for your course work & inside it create a folde
 
 ### Publishing to GitHub
 
+{:start="3"}
 3. Try out GitHub Desktop with a [tutorial project](https://help.github.com/en/desktop/getting-started-with-github-desktop)
 
 4. Using GitHub Desktop, publish your work from exercise 2 to GitHub. Enable GitHub Pages to see your work served.
@@ -68,6 +69,7 @@ Create a folder on your computer for your course work & inside it create a folde
 
 Do some changes on your article to get a hang of working with git. Remember to commit for every new thought.
 
+{:start="5"}
 5. Add a few more paragraphs of [the original text](../Intro/assets/feynman.txt). Add and commit your work.
 6. Change the image to something nicer. Add and commit your work.
 7. Find a better font and add it. Add and commit your work.
@@ -81,6 +83,7 @@ Or start a free trial on CodeCademy to try out the [CodeCademy's command line co
 
 Do some changes on your article to get a hang of working with git from the command line. Remember to commit for every new thought.
 
+{:start="8"}
 8. Add a few more paragraphs of [the original text](../Intro/assets/feynman.txt). Add and commit your work.
 9. Change the font sizes to something bigger. Add and commit your work.
 10. Change the spacing around the titles. Add and commit your work.
