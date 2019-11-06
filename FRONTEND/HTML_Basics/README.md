@@ -2,7 +2,7 @@
 
 ## Tools for today
 
-- Atom
+- VSCode
 - GitHub Desktop
 - Chrome
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -19,14 +19,24 @@
 
 ## Today's exercise
 
-Start a folder + repository for today's exercises called `HTML_Exercises`.   
-Each exercise should go in its own HTML file. Each file should have a `<title>` tag with the exercise title.
-Remember to commit often, add descriptive commit messages explaining `why` you did what you did!   
+Start a folder for today's exercises called `html_exercises`.   
+Inside that, each exercise should go in its own folder, own repository and own HTML file. Each file should have a `<title>` tag with the exercise title.
+Remember to commit often, add descriptive commit messages explaining `why` you did what you did!
 
 The task is to break up the given content (on the left) into the appropriate HTML elements.
-If you use the [given CSS file](assets/style.css), the result should look like the image on the right.
+If you use the [given CSS file](assets/style.css), the result should look like the image on the right. Remember to copy the CSS file above into each of your exercise folders.
 
-Elements to use: `html, head, body, title, link`
+Each exercise goes like this:
+
+1. create new folder
+2. create new repository in it
+3. add the CSS file, create your HTML file with a `<title>`
+4. commit your initial files
+5. start working on the exercise - copy content, pick elements
+6. commit your work with a message focusing on *why* you did what you did
+7. if it's not perfect for the first try, don't worry, try again - but make sure to commit each new try and each new thought, to learn from it later!
+
+Elements to use: `html, head, body, title, meta, link`
 
 ### exercise I: familiar elements: text, title, lists, quotes
 
@@ -71,18 +81,6 @@ Elements to use: `header, footer, nav, aside, main, article, section`
 | ``` logo about cats dogs About me “Narrativity is unattainable,” says Sartre; however, according to Wilson, it is not so much narrativity that is unattainable, but rather the defining characteristic, and eventually the stasis, of narrativity. About cats If one examines Marxist capitalism, one is faced with a choice of significant form. made with 💛 by {your name}```      | ![exercise 1](assets/screenshots/layout2.png) |
 | ``` logo about cats dogs About me “Narrativity is unattainable,” says Sartre; however, according to Wilson, it is not so much narrativity that is unattainable, but rather the defining characteristic, and eventually the stasis, of narrativity. AD buy cats! made with 💛 by {your name}```      | ![exercise 1](assets/screenshots/layout3.png) |
 
-- Push your work to your corresponding remote repository on GitHub.
-
-## Today's PROJECT exercise
-
-Let's get started with the class project!   
-- Investigate the received design, plan basic sectioning structure for our HTML document.   
-- Start a repository for your project work.
-- Start with an `index.html` file.
-- Remember to commit often, add descriptive commit messages explaining `why` you did what you did!
-- Identify main content areas in the design, copy over content to your HTML document.
-- Start sectioning your content with the proper HTML elements.
-- Refine your document structure, continue adding contents and elements until ready.
 - Push your work to your corresponding remote repository on GitHub.
 
 ## Optional homework

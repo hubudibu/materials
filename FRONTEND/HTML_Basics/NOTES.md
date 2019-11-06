@@ -11,7 +11,6 @@
 
    - talk about HTML
    - exercises for picking the right element
-   - start project work!
 
 - talk about:
 
@@ -25,10 +24,6 @@
 - talk about: sectioning content, semantic elements, document outline, history of the semantic web
 
 - exercise IV: sectioning content
-
-- talk about: the project, using Zeplin
-
-- exercise V: starting the project
 
 - optional homework
 - check-out round: how are you? what was your key takeaway today? is there something you would change?
