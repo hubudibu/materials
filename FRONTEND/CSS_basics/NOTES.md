@@ -39,9 +39,5 @@
 
 - CSS methodologies: BEM, etc
 
-- take a break!
-
-- project work: plan class names, add text styles, **avoid duplication**
-
 - optional homework
 - check-out round: how are you? what was your key takeaway today? is there something you would change?

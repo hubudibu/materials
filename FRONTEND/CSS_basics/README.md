@@ -14,13 +14,13 @@
 Duplicate last class, and add some new styles! work in the CSS file you got last class.   
 If you don't have the code at hand, ask one of your classmates!
 
-Follow the designs in Zeplin to redesign last class's exercises: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f screens 1.1-1.3
+Follow [the designs in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f) to redesign last class's exercises (screens 1.1-1.3)
 
 focus on the following CSS properties: `font-size, color, text-align, font-weight, line-height, text-decoration, text-transform`
 
 ### 2. selectors: picking the right class
 
-Given the following CSS code, build the HTML and add the necessary classes to follow the design! Don't touch the CSS!
+Given the following CSS code, build the HTML and add the necessary classes to follow the design! **Don't touch the CSS!**
 
 ```css
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
@@ -72,28 +72,14 @@ Given the following CSS code, build the HTML and add the necessary classes to fo
 
 ### 3. the right selectors make redesign easy
 
-Given the code you wrote in the previous exercise, change the CSS so that it follows the new design! Don't touch the HTML! The design to use is  https://app.zeplin.io/project/5b980960f8d0cb9de317da5f screens 3.1-3.2
+Given the code you wrote in the previous exercise, change the CSS so that it follows the new design! Don't touch the HTML! The design to use is [in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screens 3.1-3.2
 
 ### 4. modifier classes, context classes
 
-Given the code you wrote in the previous exercise, create a dark version for your design!  https://app.zeplin.io/project/5b980960f8d0cb9de317da5f screen 4
+Given the code you wrote in the previous exercise, create a dark version for your design! [example design in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screen 4
 
-## Project work
-
-Let's continue with the class project!
-- Investigate the received design, add some descriptive class names to your sectioned plan.   
-- Start a repository for your project work.
-- Start with an `index.html` file.
-- Remember to commit often, add descriptive commit messages explaining `why` you did what you did!
-- Identify main content areas in the design, copy over content to your HTML document.
-- Add a reset or normalize stylesheet as a foundation for your styles.
-- Start sectioning your content with the proper HTML elements.
-- Start adding descriptive classes to your elements.
-- Start styling with basic text styles: font family, font sizes and colors. Make sure you reuse your styles and **avoid duplication**.
-- Refine your document structure, continue adding contents and elements until ready.
-- Push your work to your corresponding remote repository on GitHub.
 
 ## Optional homework
 
-- read more on CSS Specificity on CSS-Tricks https://css-tricks.com/specifics-on-css-specificity/ and on Smashing Magazine https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/ or use the dark side of the force https://stuffandnonsense.co.uk/archives/css_specificity_wars.html
-- read more on methodologies like BEM http://getbem.com/ or watch videos on ITCSS https://www.skillshare.com/classes/Modern-CSS-Writing-Better-Cleaner-More-Scalable-Code/771669373
+- read more [on CSS Specificity on CSS-Tricks](https://css-tricks.com/specifics-on-css-specificity/) and [on Smashing Magazine](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/) or use [the dark side of the force](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
+- read more [on methodologies like BEM](http://getbem.com/) or watch [videos on ITCSS](https://www.skillshare.com/classes/Modern-CSS-Writing-Better-Cleaner-More-Scalable-Code/771669373)
