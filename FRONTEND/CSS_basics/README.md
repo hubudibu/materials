@@ -11,12 +11,17 @@
 
 ### 1. what we already know: font styles & colors
 
+Follow [the designs in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f) to redesign last class's exercises (screens 1.1-1.3)   
 Duplicate last class, and add some new styles! work in the CSS file you got last class.   
 If you don't have the code at hand, ask one of your classmates!
 
-Follow [the designs in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f) to redesign last class's exercises (screens 1.1-1.3)
-
 focus on the following CSS properties: `font-size, color, text-align, font-weight, line-height, text-decoration, text-transform`
+
+Bonus points for
+- using the same CSS file for exercises 1.1 and 1.2
+- the least amount of HTML edits
+- no class names in the HTML and in the CSS selectors
+- the shortest & simplest CSS file
 
 ### 2. selectors: picking the right class
 
@@ -72,11 +77,11 @@ Given the following CSS code, build the HTML and add the necessary classes to fo
 
 ### 3. the right selectors make redesign easy
 
-Given the code you wrote in the previous exercise, change the CSS so that it follows the new design! Don't touch the HTML! The design to use is [in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screens 3.1-3.2
+Given the code you wrote in the previous exercise, change the CSS so that it follows the new design! **Don't touch the HTML!** The design to use is [in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screens 3.1-3.2
 
 ### 4. modifier classes, context classes
 
-Given the code you wrote in the previous exercise, create a dark version for your design! [example design in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screen 4
+Given the code you wrote in the previous exercise, create a dark version for your design! [example design in Zeplin](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f), screen 3.3
 
 
 ## Optional homework
