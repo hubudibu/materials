@@ -1,4 +1,6 @@
-# HTML & CSS
+# MATERIALS
+
+## HTML & CSS
 
 Recommended path:
 
@@ -15,8 +17,7 @@ Recommended path:
 
   HTML history;  
    most common HTML elements;  
-   sectioning;  
-   project work kickoff
+   sectioning
 
 - [CSS basics](./CSS_basics)
 
@@ -25,20 +26,24 @@ Recommended path:
   specificity & cascade  
   CSS methodologies, BEM
 
-- [Layout](./Layout)
+- [Workshop Day 1](./Project0)
+
+  review what we've learned;  
+  first project work focusing on process
+
+- [Layout: Box Model](./Layout)
 
   box model, sizing & positioning
   flexbox, grid
 
-- [Forms](./Forms)
+- [Layout: Flex & Grid](./Layout)
 
-  user input elements, text inputs, dropdowns, checkboxes and buttons  
-  styling input elements
+  flexbox, grid
 
-- [Workshop Day 1](./Project)
+- [Workshop Day 2](./Project)
 
   review what we've learned;  
-  progress with the project work
+  second project work focusing on layout
 
 - [CSS advanced](./CSS_advanced)
 
@@ -54,18 +59,18 @@ Recommended path:
   Responsive grid  
   Media queries
 
-- [Dynamic content](./Dynamic)
-
-  Jekyll
-  Wordpress
-  Templates
-
-- [JavaScript](./JavaScript)
-
-  Document Object Model
-  event handling
-
-- [Workshop II](./ProjectII)
+- [Workshop Day 3](./Project)
 
   review what we've learned;  
-  progress with the project work
+  third project work focusing on responsive web
+
+- [Media & Forms](./Forms)
+
+  special HTML elements: video, audio, tables,   
+  user input elements, text inputs, dropdowns, checkboxes and buttons  
+  styling input elements
+
+- [Workshop Day 4](./Project)
+
+  review what we've learned;  
+  project work

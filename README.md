@@ -26,7 +26,7 @@ Recommended path:
   specificity & cascade  
   CSS methodologies, BEM
 
-- [Workshop Day 1](./FRONTEND/Project)
+- [Workshop Day 1](./FRONTEND/Project0)
 
   review what we've learned;  
   first project work focusing on process
