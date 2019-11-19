@@ -34,9 +34,8 @@ Recommended path:
 - [Layout: Box Model](./FRONTEND/Layout)
 
   box model, sizing & positioning
-  flexbox, grid
 
-- [Layout: Flex & Grid](./FRONTEND/Layout)
+- [Layout: Flex & Grid](./FRONTEND/Layout2)
 
   flexbox, grid
 

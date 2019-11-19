@@ -10,6 +10,7 @@
 - what will we do today?
 
   - box model, sizing & positioning
+  - advanced positioning tools: flexbox, grid
 
 - the box model
 
@@ -30,6 +31,20 @@
   - fixed
   - _exercise:_ sticky header
   - _exercise:_ message bubble
+
+- flexbox - distributing elements on an axis
+
+  - _exercise:_ froggy
+  - _exercise:_ navigation bar
+  - _exercise:_ card
+  - _exercise:_ list
+  - _exercise:_ centering
+
+- grid - complex layouts
+
+  - _exercise:_ garden
+  - _exercise:_ list
+  - _exercise:_ columns
 
 - optional homework
 - check-out round: how are you? what was your key takeaway today? is there something you would change?
