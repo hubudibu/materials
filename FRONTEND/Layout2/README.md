@@ -1,10 +1,7 @@
-# Layout
+# Advanced Layouts
 
 ## New concepts for today
 
-- box model
-- sizing
-- positioning
 - flexbox
 - grid
 
@@ -12,42 +9,9 @@
 
 Zeplin project link for exercises: https://app.zeplin.io/project/5b980960f8d0cb9de317da5f
 
-### Box Model
-
-Your CSS properties and values for this exercise:
-
-- `display: inline` and `display: block`
-- `width, height, margin, padding, border`
-- `overflow`
-- `display: inline-block`
-
-Your Zeplin designs for this exercise: [4. Box Model](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbce097326ac118dbc7ad9e_)
-and [5. Inline-Block](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbce08c6bc6d61900c40f1c)
-
-|   |   |   |   |
-| - | - | - | - |
-| ![4.1](./assets/screens/4.1.jpg) | ![4.2](./assets/screens/4.2.jpg) | ![4.3](./assets/screens/4.3.jpg) | ![4.4](./assets/screens/4.4.jpg) |
-| ![5.1](./assets/screens/5.1.jpg) | ![5.2](./assets/screens/5.2.jpg) | | |
-
-
-### Positioning
-
-your CSS properties and values for this exercise:
-
-- `position: relative`, `absolute` and `fixed`
-
-Your Zeplin designs for this exercise: [6. Absolute Positioning](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbce10feb1a041924ce9016)
-and [7. Fixed Positioning](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbce16090d58d09c801e954)
-
-|   |   |   |   |
-| - | - | - | - |
-| ![6.1](./assets/screens/6.1.jpg) | ![6.2](./assets/screens/6.2.jpg)  | ![7.1](./assets/screens/7.1.jpg) | ![7.2](./assets/screens/7.2.jpg)
-
-
 ### Flexbox
 
 - Use [this CSS Trick Guide on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for looking up the right properties!
-- Start with playing with syntax at https://flexboxfroggy.com/
 
 Your Zeplin designs for this exercise: [8. Flexbox](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbce1886f1d9c18e77fe740)
 
@@ -57,7 +21,6 @@ Your Zeplin designs for this exercise: [8. Flexbox](https://app.zeplin.io/projec
 ### CSS Grid
 
 - Use [this CSS Trick Guide on Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) for looking up the right properties!
-- Start with playing with syntax at http://cssgridgarden.com/
 
 Your Zeplin designs for this exercise: [9. Grid](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f?seid=5bbdc3246bc6d61900cbf325)
 
@@ -65,17 +28,14 @@ Your Zeplin designs for this exercise: [9. Grid](https://app.zeplin.io/project/5
 | - | - |
 | ![9.1](./assets/screens/9.1.jpg) | ![9.2](./assets/screens/9.2.jpg) |
 
-### Project work
-
-- apply text styles, create classes for them
-- start laying out sections - give them width and height
-- lay out the navigation using flexbox
-- create the "Our Work" boxes using basic box model
-- create the "Meet your new UX team" boxes using grid
-- create the "We wrote a book" section using grid
-
 ## Optional homework
 
-- Continue the game at https://flexboxfroggy.com/, http://cssgridgarden.com/ and http://www.flexboxdefense.com/
-- Read more and bookmark https://css-tricks.com/snippets/css/a-guide-to-flexbox/ and https://css-tricks.com/snippets/css/complete-guide-grid/
-- Check the examples at https://gridbyexample.com/examples/
+- Play with flexbox & grid at [flexboxfroggy.com](https://flexboxfroggy.com/), [cssgridgarden.com](http://cssgridgarden.com/) and [flexboxdefense.com](http://www.flexboxdefense.com/)
+- Watch [WebDev Simplified's Flexbox tutorial](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+- Watch [WebDev Simplified's Grid tutorial](https://www.youtube.com/watch?v=9zBsdzdE4sM)
+- Watch [Jen Simmons explain CSS Grid](https://www.youtube.com/watch?v=FEnRpy9Xfes)
+- Watch [Jen Simmons explain the difference between Flexbox & Grid](https://www.youtube.com/watch?v=hs3piaN4b5I)
+- Watch [Rachel Andrew's explanation of Flexbox & CSS Grid](https://www.youtube.com/watch?v=hj355PRbwSQ)
+- Watch [NPJ try CSS Grid for the first time](https://www.youtube.com/watch?v=3Ne9-9n5Oq0)
+- Read more and bookmark [the CSS-Tricks flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [the CSS-Tricks grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- Check the examples at [Grid By Example](https://gridbyexample.com/examples/)
