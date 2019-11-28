@@ -58,7 +58,3 @@ The Workshop project on Zeplin, desktop version
 - use [the CSS-Tricks grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) for help with the syntax
 - add text styles, padding and background colors
 - don't worry about rounded corners and graphics for now
-
-## Optional homework
-
-continue with project work!
