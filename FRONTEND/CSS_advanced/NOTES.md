@@ -8,14 +8,30 @@
 
 - check-in round: how are you? did you have time to revisit last class?
 - what will we do today?
+  - interactions: hover states, transitions
+  - bitmap vs vector images: svg, icon font, pseudo elements, background images
+  - fancy boxes: backgrounds, gradients, rounded corners, shadows
 
-  talk about the more exciting CSS techniques we skipped so far  
-  in the project work, we skipped
-    - background images for our sections
-    - rounded corners
-    - icons, logos, triangles
-    - hover states
+- interactions
+  - show:
+    - pseudo classes
+    - :hover
+    - transitions
+  - exercise:
+    - hover color change for link
+    - underline on hover
+    - hover background change on button
 
+- icons
+  - show:
+    - vector vs bitmap
+    - svg icons
+    - pseudo-elements
+    - using icon fonts
+    - generating icon fonts
+  - exercise:
+    - use given svg - download from zeplin
+    - use given icon font - change colors
 
 - fancy backgrounds
   - show:
@@ -34,29 +50,6 @@
   - exercise:
     - a few boxes with radius & shadow
     - don't build on the previous yet, no gradient + shadow
-
-- icons
-  - show:
-    - vector vs bitmap
-    - svg icons
-    - pseudo-elements
-    - using icon fonts
-    - generating icon fonts
-  - exercise:
-    - use given svg - download from zeplin
-    - use given icon font - change colors
-
-- interactions
-  - show:
-    - pseudo classes
-    - :hover
-    - :active on button
-    - :focus on input field
-    - transitions
-  - exercise:
-    - hover color change for link
-    - underline on hover
-    - hover background change on button
 
 - combine these:
   - show: design a button with gradient, icon, rounded corner, box-shadow & hover state
@@ -86,5 +79,3 @@ nice-to-have:
 
 already mentioned:
 - css variables
-- ~, +
-- :checked

@@ -2,13 +2,6 @@
 
 ## New concepts for today
 
-- Fancy backgrounds
-  - `background-image`
-  - `background-size`
-  - `linear-gradient`, `radial-gradient`
-- Fancy boxes
-  - `border-radius`
-  - `box-shadow`
 - Icons
   - SVG
   - icon fonts
@@ -18,8 +11,38 @@
   - `:active`
   - `:focus`
   - `transition`
+- Fancy backgrounds
+  - `background-image`
+  - `background-size`
+  - `linear-gradient`, `radial-gradient`
+- Fancy boxes
+  - `border-radius`
+  - `box-shadow`
 
 ## Today's exercises
+
+### Interactions
+
+What will we use?
+
+- `:hover`
+- `transition`
+
+Find the designs in [the Zeplin project].
+
+### Icons
+
+What will we use?
+
+- `::before`
+- `content`
+- `background-size`
+- [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
+
+Find the designs in [the Zeplin project].
+
+- use SVG images downloaded from Zeplin.
+- use icon fonts from Font Awesome. Recolor the icons.
 
 ### Fancy backgrounds
 
@@ -44,29 +67,6 @@ What will we use?
 All the boxes are 300x300 px in size, and are using the same background color: `thistle`
 Find the designs in [the Zeplin project].
 
-### Icons
-
-What will we use?
-
-- `::before`
-- `content`
-- `background-size`
-- [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
-
-Find the designs in [the Zeplin project].
-
-- use SVG images downloaded from Zeplin.
-- use icon fonts from Font Awesome. Recolor the icons.
-
-### Interactions
-
-What will we use?
-
-- `:hover`
-- `transition`
-
-Find the designs in [the Zeplin project].
-
 ### Combine
 
 What will we use?
@@ -81,17 +81,9 @@ What will we use?
 
 Find the designs in [the Zeplin project].
 
-## Project work
-
-- add background images for the sections
-- round the box corners
-- add hover states for navigation and buttons
-- add arrow icons
-
 ## Optional homework
 
 - create your own fancy buttons!
-- continue with project work - now you can do all the rounded corners and icons as well
 
 * icons from [Font Awesome](https://fontawesome.com/license)
 
