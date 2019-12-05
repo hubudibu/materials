@@ -3,6 +3,7 @@
 #### preparation
 
 - print this outline
+- add focus & active interactions!
 
 #### outline
 

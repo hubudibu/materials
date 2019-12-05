@@ -2,15 +2,13 @@
 
 ## New concepts for today
 
+- Interactions
+  - `:hover`
+  - `transition`
 - Icons
   - SVG
   - icon fonts
   - `::before`, `::after`
-- Interactions
-  - `:hover`
-  - `:active`
-  - `:focus`
-  - `transition`
 - Fancy backgrounds
   - `background-image`
   - `background-size`
