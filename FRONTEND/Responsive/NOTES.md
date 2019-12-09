@@ -20,15 +20,22 @@
   - **exercise**: centered w max-width
   - relative sizes: percents, max-width, em
   - screen-relative and font-relative
-  - grid made responsive with repeat autofit and minmax https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431
-  - **exercise**/together: responsive grid
 
 - media queries
 
   - breakpoints & media queries "Create breakpoints based on content, never on specific devices, products, or brands."
   - **exercise**: change font size
-  - **exercise**: switch background image
+  - how to show and hide content: display block/none
   - **exercise**: change content - nav vs hamburger
+
+- responsive grids
+
+  - grid made responsive with repeat autofit and minmax https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431
+  - **exercise**/together: responsive grid
+
+- responsive images
+
+  - @2x images, show example, show zeplin export, no exercise yet
 
 - optional homework: read, project
 - check-out round: how are you? what was your key takeaway today? is there something you would change?
