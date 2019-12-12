@@ -58,7 +58,7 @@ Recommended path:
   Responsive grid  
   Media queries
 
-- [Workshop Day 3](./FRONTEND/Project)
+- [Workshop Day 3](./FRONTEND/Project2)
 
   review what we've learned;  
   third project work focusing on responsive web
