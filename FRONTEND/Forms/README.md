@@ -49,16 +49,7 @@
 | - | - |
 | position your form elements with flexbox! [zeplin design here](https://app.zeplin.io/project/5b980960f8d0cb9de317da5f/screen/5bc6015613f4bb09f4ac9b4d) |  ![9.2](./assets/10.2.jpg) |
 
-## Project work
-
-- apply text styles, create classes for them
-- start laying out sections - give them width and height
-- lay out the navigation using flexbox
-- create the "Our Work" boxes using basic box model
-- create the "Meet your new team" boxes using grid
-- create the "We wrote a book" section using grid
-
 ## Optional homework
-- read more on form elements at https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets
-- go through flexbox examples at https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox#Form_controls
-- read more of the elements we missed: tables at https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables and multimedia elements at https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
+- read more [on form elements on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
+- go through [flexbox examples for inputs on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox#Form_controls)
+- read more of the elements we missed: [tables on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) and [multimedia elements on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
